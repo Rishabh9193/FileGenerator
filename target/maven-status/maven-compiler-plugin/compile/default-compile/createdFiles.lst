@@ -1,5 +1,0 @@
-org\text\generator\TextGenerator.class
-org\app\App.class
-org\file\io\LineFileWriterImpl.class
-org\file\io\LineFileWriter.class
-org\text\generator\SequentialTextGenerator.class
